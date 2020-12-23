@@ -21,6 +21,7 @@ Grinder: graef cm 702<br>
 Espresso maschine: lelit anna pl41lem<br>
 Coffee bean: K-Favorite - Cafee Italiano Espresso Cremoso<br>
 - Pictures can be found here: https://github.com/Steffeeeen1234/Espresso-Maschine-Grinder-Overview/tree/main/CoffeeBeans/k-Favorite/Caffe-Italiano-Espresso-Cremoso<br>
+
 Grinding setting: 6<br>
 Amount of coffee: 8g<br>
 the coffeeholder thing was straight<br>

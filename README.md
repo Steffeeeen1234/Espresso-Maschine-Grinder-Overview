@@ -31,6 +31,7 @@ cream: light brownisch<br>
 taste: light watery but not bitter<br>
 Sieve: it was not "dirty". It was easy to clean.<br>
 
+Conclusion: not perfect.
 
 # Todo 
 - make a website which presents the results nice and easy

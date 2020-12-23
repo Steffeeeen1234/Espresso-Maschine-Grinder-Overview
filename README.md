@@ -20,15 +20,15 @@ the website should have a mobile and desktop design
 Grinder: graef cm 702<br>
 Espresso maschine: lelit anna pl41lem<br>
 Coffee bean: K-Favorite - Cafee Italiano Espresso Cremoso<br>
-- Pictures can be found here: https://github.com/Steffeeeen1234/Espresso-Maschine-Grinder-Overview/tree/main/CoffeeBeans/k-Favorite/Caffe-Italiano-Espresso-Cremoso
-Grinding setting: 6
-Amount of coffee: 8g
-the coffeeholder thing was straight
-bar: a little under 12bar
-time until the espresso is inside the cup: 25sec
-cream: light brownisch
-taste: light watery but not bitter
-Sieve: it was not "dirty". It was easy to clean.
+- Pictures can be found here: https://github.com/Steffeeeen1234/Espresso-Maschine-Grinder-Overview/tree/main/CoffeeBeans/k-Favorite/Caffe-Italiano-Espresso-Cremoso<br>
+Grinding setting: 6<br>
+Amount of coffee: 8g<br>
+the coffeeholder thing was straight<br>
+bar: a little under 12bar<br>
+time until the espresso is inside the cup: 25sec<br>
+cream: light brownisch<br>
+taste: light watery but not bitter<br>
+Sieve: it was not "dirty". It was easy to clean.<br>
 
 
 # Todo 

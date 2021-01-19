@@ -1,7 +1,10 @@
+# Note: this is already available
+I stopped to make thought about because I found the app "Coffee Book" from Alexander Logan for iOS.
+
 # Espresso-Maschine-Grinder-Overview
 
 The goal is to provide an easy overview of used bean, used grinder and the used espresso maschine. 
-This should help to reminde me which set up I used for which bean and it should also give everyone a hint which setuo could be the best for their espresso maschine.
+This should help to reminde me which set up I used for which bean and it should also give everyone a hint which setup could be the best for their espresso maschine.
 
 # Website
 I could imagine that the website has some kind of selector:
